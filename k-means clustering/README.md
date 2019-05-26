@@ -2,7 +2,7 @@
 
 ## What is Clustering?
 
-Clustering means finding clusters in a dataset unsupervised.Unsupervised in this case means that there are no predictor and response variables.
+Clustering means finding clusters in a dataset unsupervised.Unsupervised in this case means that there are no predictor and response variables.It is mainly used when you are working with unlabeled dataset.K-means clustering is a very popular clustering method and will be discussed in this project.
 
 See more about this algorithm here:
 
