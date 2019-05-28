@@ -4,4 +4,4 @@ Unsurpervised learning models works on their own to discover information that ma
 
 1. [K-Means Clustering](https://github.com/GeorgeOduor/unsupervised-learning/tree/master/k-means%20clustering)
 
-1. [Hierarchical Clustering]()
+1. [Hierarchical Clustering](https://github.com/GeorgeOduor/unsupervised-learning/tree/master/hierarchical%20clustering)
