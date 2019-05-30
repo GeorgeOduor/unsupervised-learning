@@ -4,7 +4,7 @@ Unlike K-Means Clustering which choses a specified number of clusters in prioR,H
 
 ## Hierarchical clustering [from scratch.](https://github.com/GeorgeOduor/unsupervised-learning/blob/master/hierarchical%20clustering/hierachical%20clustering.ipynb)
 
-## Project in [Python.]()
+## Project in [Python.](https://github.com/GeorgeOduor/unsupervised-learning/blob/master/hierarchical%20clustering/hierarchical.ipynb)
 
 ### Licence 
 
